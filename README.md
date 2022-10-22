@@ -37,4 +37,4 @@ This project is currently closed for contribution, but feel free to leave an iss
 
 ## Screenshots
 
-![Screenshot](public/screenshot/budget-tracker)
+![Screenshot](public/screenshot/budget-tracker.jpg)
